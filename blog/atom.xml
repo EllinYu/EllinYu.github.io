@@ -9,9 +9,11 @@ layout: feed
 	<link href="http://EllinYu.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://EllinYu.github.io/blog</id>
-	
-
-	{% for post in site.posts %}
+	<author>
+		<name>EllinYu</name>
+		<email>ellinyu1015@gmail.com</email>
+		
+	</author>	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
 			<link href="http://EllinYu.github.io{{ post.url }}"/>
