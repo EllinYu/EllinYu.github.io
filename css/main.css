@@ -4,10 +4,10 @@ body {
    background:Thistle;
 
 #cover {
-  height: 900px;
+  height: 263px;
   position: relative;
-  top: -55px;
-  width: 100%;
+  top:144px;
+  width: 490px;
   background: url("http://www.ui3g.com/ui3gimg/2014/img1ui/2438b02afe0ed72f496ea759.jpg") no-repeat top center;
   background-size:contain;
    background-attachment: fixed;
