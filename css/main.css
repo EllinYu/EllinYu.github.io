@@ -6,7 +6,7 @@ body {
 }
 #cover {
  
-  background: url("http://www.ui3g.com/ui3gimg/2014/img1ui/2438b02afe0ed72f496ea759.jpg") no-repeat top center;
+  background: url("http://www.planwallpaper.com/static/images/background_image_9.jpg") no-repeat top center;
   background-size:contain;
    background-attachment: fixed;
 }
@@ -26,7 +26,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color:Navy ;
+    color: ;
 }
 a:hover {
     text-decoration: underline;
