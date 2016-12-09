@@ -3,6 +3,16 @@ body {
     width: 70%;
    background:Thistle;
 
+#cover {
+  height: 900px;
+  position: relative;
+  top: -55px;
+  width: 100%;
+  background: url("http://www.ui3g.com/ui3gimg/2014/img1ui/2438b02afe0ed72f496ea759.jpg") no-repeat top center;
+  background-size:contain;
+   background-attachment: fixed;
+}
+
    
     
 }
