@@ -2,11 +2,11 @@ body {
     margin: 60px auto;
     width: 70%;
    background:Thistle;
-    background: url("http://www.planwallpaper.com/static/images/background_image_9.jpg");
+    background: url("http://img03.deviantart.net/f85b/i/2010/076/9/0/cosmic_spore_bg_by_itachi_roxas.jpg");
 }
 #cover {
  
-  background: url("http://www.planwallpaper.com/static/images/background_image_9.jpg") no-repeat top center;
+  background: url("http://img03.deviantart.net/f85b/i/2010/076/9/0/cosmic_spore_bg_by_itachi_roxas.jpg") no-repeat top center;
   background-size:contain;
    background-attachment: fixed;
 }
