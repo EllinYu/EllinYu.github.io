@@ -5,11 +5,11 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>School Life</title>
-	<link href="http://EllinYu.github.io/photo/atom.xml" rel="self"/>
-	<link href="http://EllinYu.github.io/photo"/>
+	<link href="http://EllinYu.github.io/school/atom.xml" rel="self"/>
+	<link href="http://EllinYu.github.io/school"/>
 
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hankquinlan.github.io/blog</id>
+	<id>http://hankquinlan.github.io/school</id>
 	<author>
 		<name>EllinYu</name>
 		<email>ellinyu1015@gmail.com</email>
