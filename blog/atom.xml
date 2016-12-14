@@ -4,11 +4,11 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Ellin's Blog</title>
-	<link href="http://EllinYu.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://EllinYu.github.io/blog"/>
+	<title>My Blog</title>
+	<link href="http://EllinYu.github.io/photo/atom.xml" rel="self"/>
+	<link href="http://EllinYu.github.io/photo"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://EllinYu.github.io/blog</id>
+	<id>http://EllinYu.github.io/photo</id>
 	<author>
 		<name>EllinYu</name>
 		<email>ellinyu1015@gmail.com</email>
