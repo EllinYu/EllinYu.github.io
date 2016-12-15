@@ -70,6 +70,17 @@ ul.posts li {
   z-index: 999;
 }
 
+
+h3 {
+    color:Bisque;
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+
+
+
+
 ul {
   padding: 0;
   margin: 0;
